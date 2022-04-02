@@ -16,7 +16,7 @@
     white-space: normal;
 }
 .navbar-inverse {
-    background-color: #b6ff00;
+    background-color: #F8AE6A;
     border-color: #4cff00;
 }
 
@@ -37,14 +37,14 @@
     margin-bottom: 30px;
 }
 
-.course > li .date {
-    text-align: center;
-    background-color: #b6ff00;
-    color: white;
-    width: 60px;
-    border-radius: 8px;
-    /*margin-top: 10px;*/
-}
+    .course > li .date {
+        text-align: center;
+        background-color: #F8AE6A;
+        color: white;
+        width: 60px;
+        border-radius: 8px;
+        /*margin-top: 10px;*/
+    }
 
 .course > li .details {
     position: absolute;
